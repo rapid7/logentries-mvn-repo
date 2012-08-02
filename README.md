@@ -1,7 +1,7 @@
 Logentries Maven Repository
 ===========================
 
-Logentries Log4j Jaba plugin for Maven users.
+Logentries Log4j Java plugin for Maven users.
 
 Place the following snippet in your pom.xml:
 
