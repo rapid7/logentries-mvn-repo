@@ -7,7 +7,7 @@ Place the following snippet in your pom.xml:
 
     <repositories>
       <repository>
-        <id>logentries-snapshots</id>
+        <id>logentries-releases</id>
         <url>https://github.com/logentries/logentries-mvn-repo/raw/master/releases</url>
       </repository>
     </repositories>
