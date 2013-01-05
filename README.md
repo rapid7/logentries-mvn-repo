@@ -14,8 +14,8 @@ Place the following snippet in your pom.xml:
     <dependencies>
       <dependency>
         <groupId>com.logentries</groupId>
-        <artifactId>leappender</artifactId>
-        <version>1.1.4</version>
+        <artifactId>logentriesappender</artifactId>
+        <version>1.1.6</version>
         <scope>compile</scope>
       </dependency>
     </dependencies>
