@@ -13,7 +13,7 @@ Place the following snippet in your pom.xml:
     </repositories>
     <dependencies>
       <dependency>
-        <groupId>com.logentries</groupId>
+        <groupId>com.logentries.log4j</groupId>
         <artifactId>logentriesappender</artifactId>
         <version>1.1.6</version>
         <scope>compile</scope>
