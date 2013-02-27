@@ -14,7 +14,7 @@ Place the following snippet in your pom.xml:
     <dependencies>
         <dependency>
             <groupId>com.logentries</groupId>
-            <artifactId>logentriesappender</artifactId>
+            <artifactId>logentries-appender</artifactId>
             <version>1.1.8</version>
         </dependency>
     </dependencies>
