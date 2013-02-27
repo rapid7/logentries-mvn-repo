@@ -13,9 +13,9 @@ Place the following snippet in your pom.xml:
     </repositories>
     <dependencies>
       <dependency>
-        <groupId>com.logentries.log4j</groupId>
+        <groupId>com.logentries</groupId>
         <artifactId>logentriesappender</artifactId>
-        <version>1.1.6</version>
+        <version>1.1.8</version>
         <scope>compile</scope>
       </dependency>
     </dependencies>
