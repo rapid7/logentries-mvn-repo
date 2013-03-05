@@ -3,19 +3,17 @@ Logentries Maven Repository
 
 Logentries Java support for Maven users.
 
+NOTE
+----
+This library is now hosted on Maven Central Repository
+
 Place the following snippet in your pom.xml:
 
-    <repositories>
-        <repository>
-            <id>logentries-releases</id>
-            <url>https://github.com/logentries/logentries-mvn-repo/raw/master/releases</url>
-        </repository>
-    </repositories>
     <dependencies>
         <dependency>
             <groupId>com.logentries</groupId>
             <artifactId>logentries-appender</artifactId>
-            <version>1.1.9</version>
+            <version>1.1.11</version>
         </dependency>
     </dependencies>
     
