@@ -1,11 +1,7 @@
-Logentries Maven Repository
+DEPRECATED
 ===========================
 
-Logentries Java support for Maven users.
-
-NOTE
-----
-This library is now hosted on Maven Central Repository
+This library is now hosted on Maven Central Repo. See below for installation details
 
 Place the following snippet in your pom.xml:
 
